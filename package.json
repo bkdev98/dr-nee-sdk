@@ -1,6 +1,6 @@
 {
   "name": "dr-nee-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node.js SDK for Dr. Nee Application interface for server methods and message streams.",
   "main": "index.ts",
   "types": "index.d.ts",
